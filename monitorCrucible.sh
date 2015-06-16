@@ -11,7 +11,7 @@ logFile="/home/apache/logs/monitorCrucible.log"
 tmpFile="/tmp/monitorCrucible.log"
 now=`date +"%m/%d/%Y-%H:%M:%S"`
 
-crucibleUrl="http://crucible.k12.com"
+crucibleUrl="http://crucible.com"
 threshold="50.0"
 
 # Checking this 3 times to catch the degradation
